@@ -2,4 +2,4 @@
 
 STRING="Hello world"
 
-echo $STRING
+echo "Message $STRING"
